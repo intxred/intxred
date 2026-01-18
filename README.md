@@ -1,5 +1,5 @@
 # About Me:
-Aspiring AI Engineer with a strong background in networking and embedded systems, software development and Machine learning. Skilled in Python, Java, C, C++, SQL, MATLAB, HTML, and CSS, with hands-on experience integrating software solutions with hardware components. I am passionate about building intelligent, efficient, and connected systems while continuously expanding my expertise in machine learning and modern AI technologies.
+Aspiring AI Engineer with a strong background in networking, embedded systems, and software development. Experienced in building, optimizing, and improving machine learning models, as well as designing and managing ETL pipelines for data collection, processing, and analysis. Skilled in Python, Javascript, C, C++, SQL, MATLAB with hands-on experience integrating software solutions with hardware components. Passionate about developing intelligent, efficient, and connected systems while continuously expanding expertise in machine learning, data workflows, and modern AI technologies.
 
 
 # Tech Stack:
